@@ -15,22 +15,22 @@ Ultraviolet offers several features that set it apart from its predecessors, inc
 
 Some of the popular websites that Ultraviolet supports include:
 
--   [Google](https://google.com)
--   [Youtube](https://www.youtube.com)
--   [Spotify](https://spotify.com)
--   [Discord](https://discord.com)
--   [Reddit](https://reddit.com)
--   [GeForce NOW](https://play.geforcenow.com/)
--   [now.gg](https://now.gg)
+- [Google](https://google.com)
+- [Youtube](https://www.youtube.com)
+- [Spotify](https://spotify.com)
+- [Discord](https://discord.com)
+- [Reddit](https://reddit.com)
+- [GeForce NOW](https://play.geforcenow.com/)
+- [now.gg](https://now.gg)
 
 ## Used by
 
--   [Holy Unblocker](https://github.com/holy-unblocker/website)
--   [Hypertabs](https://hypertabs.cc/)
--   [Terbium](https://github.com/TerbiumOS/webOS)
--   [Incognito](https://github.com/caracal-js/Incognito)
--   [Nebula](https://github.com/NebulaServices/Nebula)
--   [Metallic](https://github.com/Metallic-Web/Metallic)
+- [Holy Unblocker](https://github.com/holy-unblocker/website)
+- [Hypertabs](https://hypertabs.cc/)
+- [Terbium](https://github.com/TerbiumOS/webOS)
+- [Incognito](https://github.com/caracal-js/Incognito)
+- [Nebula](https://github.com/NebulaServices/Nebula)
+- [Metallic](https://github.com/Metallic-Web/Metallic)
 
 ## Upgrading
 
@@ -45,7 +45,7 @@ If you operate an outdated Bare server, we encourage you to update. If you're us
 If you're too lazy to do either of the above, you can install an outdated and unsupported version of Ultraviolet.
 
 ```sh
-npm install @titaniumnetwork-dev/ultraviolet@1
+npm install styled-uv@1
 ```
 
 ## Changelog
